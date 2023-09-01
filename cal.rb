@@ -43,7 +43,7 @@ loop do
             print "Digite mais um número "
             num2 = gets.chomp.to_i
             mult = num1 * num2
-            puts "O resultado de #{num1} menos #{num2} é #{mult}"
+            puts "O resultado de #{num1} vezes #{num2} é #{mult}"
 
         when esc = 4
             
@@ -52,7 +52,7 @@ loop do
             print "Digite mais um número "
             num2 = gets.chomp.to_i
             div = num1 / num2
-            puts "O resultado de #{num1} menos #{num2} é #{div}"
+            puts "O resultado de #{num1} dividido por #{num2} é #{div}"
 
         when esc = 0
             break
