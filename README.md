@@ -10,7 +10,7 @@
         Repositório de estudos para o curso <strong> Formação Ruby Developer </strong> <br> (o link para o curso se encontra no botão "Ruby DIO") 
     </p>
     <p> 
-        Study repository for course <strong> Formação Ruby Developer </strong> <br> (the link tp the course is on the button "Ruby DIO") 
+        Study repository for course <strong> Formação Ruby Developer </strong> <br> (the link to the course is on the button "Ruby DIO") 
     </p>
     <img src="https://img.shields.io/badge/ruby-black?style=for-the-badge&logo=Ruby&logoColor=9d0208" />
     <br>
