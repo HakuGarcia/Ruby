@@ -46,6 +46,10 @@
             <td>02</td>
             <td>Calculadora</td>
         </tr>
+        <tr>
+            <td>03</td>
+            <td>Cálculo com Potência</td>
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -75,6 +79,10 @@
         <tr>
             <td>02</td>
             <td>Calculator</td>
+        </tr>
+        <tr>
+            <td>03</td>
+            <td>Calculation with Exponent</td>
         </tr>
     </tbody>
     <tfoot></tfoot>
