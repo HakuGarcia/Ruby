@@ -40,15 +40,21 @@
     <tbody align="left">
         <tr>
             <td>01</td>
-            <td>Biblioteca</td>
+            <td>
+                <a href="biblioteca.rb">Biblioteca</a>
+            </td>
         </tr>
         <tr>
             <td>02</td>
-            <td>Calculadora</td>
+            <td>
+                <a href="cal.rb">Calculadora</a>
+            </td>
         </tr>
         <tr>
             <td>03</td>
-            <td>Cálculo com Potência</td>
+            <td>
+                <a href="calpoten.rb">Calcúlo com Potência</a>
+            </td>
         </tr>
     </tbody>
     <tfoot></tfoot>
@@ -74,15 +80,21 @@
     <tbody align="left">
         <tr>
             <td>01</td>
-            <td>Library</td>
+            <td>
+                <a href="biblioteca.rb">Library</a>
+            </td>
         </tr>
         <tr>
             <td>02</td>
-            <td>Calculator</td>
+            <td>
+                <a href="cal.rb">Calculator</a>
+            </td>
         </tr>
         <tr>
             <td>03</td>
-            <td>Calculation with Exponent</td>
+            <td>
+                <a href="calpoten.rb">Calculation with Exponent</a>
+            </td>
         </tr>
     </tbody>
     <tfoot></tfoot>
