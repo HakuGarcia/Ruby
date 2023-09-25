@@ -56,6 +56,12 @@
                 <a href="calpoten.rb">Calcúlo com Potência</a>
             </td>
         </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="consulta.rb">Consulta de CPF</a>
+            </td>
+        </tr>
     </tbody>
     <tfoot></tfoot>
     </table>
@@ -94,6 +100,12 @@
             <td>03</td>
             <td>
                 <a href="calpoten.rb">Calculation with Exponent</a>
+            </td>
+        </tr>
+        <tr>
+            <td>04</td>
+            <td>
+                <a href="consulta.rb">CPF consultation</a>
             </td>
         </tr>
     </tbody>
